@@ -18,7 +18,7 @@ Welcome to my first project created with Unity! This is a clone of the popular 2
 
 ![git3](https://github.com/djeghlaflydia/Game_2048/assets/163843966/5120bef7-ee89-44cf-acba-23f353844bd5)
 
-Enjoy playing and try to beat your high score!
+Enjoy playing and try to beat your high score! 
 Happy gaming!
 
 ---
