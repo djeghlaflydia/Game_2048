@@ -2,6 +2,7 @@
 
 ## Introduction
 Welcome to my first project created with Unity! This is a clone of the popular 2048 puzzle game. I developed this project to learn more about game development using Unity, and I'm excited to share it with you.
+here is the link to see the project on PC (the phone version is in progress): https://play.unity.com/mg/other/web-7r9ll
 
 ## How to Play
 2048 is a simple and addictive puzzle game. Here are the instructions on how to play:
